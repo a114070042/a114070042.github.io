@@ -1,0 +1,43 @@
+.sharoncenter{
+    text-align: center;
+    color:black;
+}
+.idk{
+    color:brown;
+    background-color:rgb(230, 208, 179);
+    border-radius: 30px;
+    width:90%;
+    margin:0 auto;
+    padding: 20px 30px;
+}
+.abc{
+    text-align: center;
+}
+a :hover{
+    color: white;
+    font-size: 45px;
+    text-decoration: none;
+    font-weight: 900;
+    background-color: rgb(187, 207, 234);
+}
+.nnnn{
+    font-size: 25px;
+    text-align: center;
+}
+.mmmm{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(182, 220, 224);
+}
+.qqqq{
+    text-align: left;
+    background-color: rgb(188, 188, 227);
+}
+section#about{
+    background:#5f9ab8;
+    background-image: url("../assets/img/sea.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}

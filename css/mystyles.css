@@ -55,7 +55,7 @@ section#about{
     padding: 20px;
     border-radius: 15px;
     max-height: 400px;
-    overflow-y: auto; /* 重點：可以滑 */
+    overflow-y: auto; 
 }
 
 .song{

@@ -30,7 +30,7 @@ a :hover{
     background-color: rgb(182, 220, 224);
 }
 .qqqq{
-    text-align: center;
+    text-align: left;
     background-color: rgb(188, 188, 227);
 }
 section#about{
@@ -41,7 +41,6 @@ section#about{
     background-attachment: fixed;
     background-size: cover;
 }
-<<<<<<< HEAD
 
 #skills img {
     width: 50%;
@@ -88,8 +87,3 @@ section#about{
     color: #aaa;
 }
 
-=======
-.contactway{
-    text-align: center;
-}
->>>>>>> 0781a1528909b749efa7fe276dbe08002b68307f
